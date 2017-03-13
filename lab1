@@ -1,0 +1,24 @@
+Script started on 廿十七年三月十三日 (週一) 十四時39分五秒
+]0;jameswang@jameswang-VirtualBox: ~/lab1[01;32mjameswang@jameswang-VirtualBox[00m:[01;34m~/lab1[00m$ whoami
+jameswang
+]0;jameswang@jameswang-VirtualBox: ~/lab1[01;32mjameswang@jameswang-VirtualBox[00m:[01;34m~/lab1[00m$ git congig -l
+git: 'congig' is not a git command. See 'git --help'.
+
+Did you mean this?
+	config
+]0;jameswang@jameswang-VirtualBox: ~/lab1[01;32mjameswang@jameswang-VirtualBox[00m:[01;34m~/lab1[00m$ git cn[Konfig -l
+user.email=jason980160@gmail.com
+user.name=jameswang0
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=http://github.com/jameswang0/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+]0;jameswang@jameswang-VirtualBox: ~/lab1[01;32mjameswang@jameswang-VirtualBox[00m:[01;34m~/lab1[00m$ git clone http://github.com/jameswang0/la b11[K.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;jameswang@jameswang-VirtualBox: ~/lab1[01;32mjameswang@jameswang-VirtualBox[00m:[01;34m~/lab1[00m$ exit
+
+Script done on 廿十七年三月十三日 (週一) 十四時41分七秒
