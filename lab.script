@@ -1,6 +1,6 @@
-Script started on 廿十七年三月十三日 (週一) 廿三時55分廿秒
-]0;jameswang@jameswang-VirtualBox: ~/lab1[01;32mjameswang@jameswang-VirtualBox[00m:[01;34m~/lab1[00m$ lsgit commit -m /add/[10Padd .vim lab1.cpp[Kls[Kgit pushremote add[4Pcommit[1Padd .mv lab1.script lab1[4Pcat lab1.script[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push -u lab1 mastermaster lab1[K[Kremote add[4Pcommit[1Padd .[K.mv lab1.script lab1[4Pcat lab1.script[9P./lab1g++ lab1.cpp -o lab1[8Pvim lab1.cpprm .lab1.cpp.swpv .lab1.cpp.swap[5Pvim lab1.cpprv .lab1.cpp.swap[1Pm .lab1.cpp.swp[4Pvim lab1.cppg++ lab1.cpp -o lab1./lab1[Kg++ lab1.cpp -o lab1
-]0;jameswang@jameswang-VirtualBox: ~/lab1[01;32mjameswang@jameswang-VirtualBox[00m:[01;34m~/lab1[00m$ ./lab1
+Script started on 廿十七年三月十三日 (週一) 廿三時58分十七秒
+]0;jameswang@jameswang-VirtualBox: ~/lab1[01;32mjameswang@jameswang-VirtualBox[00m:[01;34m~/lab1[00m$ ./lab1g++ lab1.cpp -o lab1ls[Kgit commit -m /add/[10Padd .commit -m /add/ls[Kg++ lab1.cpp -o lab1
+]0;jameswang@jameswang-VirtualBox: ~/lab1[01;32mjameswang@jameswang-VirtualBox[00m:[01;34m~/lab1[00m$ g++ lab1.cpp -o lab1./lab1[Kg++ lab1.cpp -o lab1./lab1[K
 22
 22
 11
@@ -20,4 +20,4 @@ Script started on 廿十七年三月十三日 (週一) 廿三時55分廿秒
 1
 ]0;jameswang@jameswang-VirtualBox: ~/lab1[01;32mjameswang@jameswang-VirtualBox[00m:[01;34m~/lab1[00m$ exit
 
-Script done on 廿十七年三月十三日 (週一) 廿三時55分45秒
+Script done on 廿十七年三月十三日 (週一) 廿三時58分40秒
